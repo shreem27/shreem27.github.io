@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Shreemayi Samujjwala"
 author_profile: true
 permalink: /
 toc: false
