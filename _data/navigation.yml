@@ -9,21 +9,17 @@
 
 main:
   - title: "Bio"
-    url: /
+    url: https://shreemayisamujjwala.com
   - title: "Research"
     url: https://shreemayisamujjwala.com/research/
-
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "CV"
-    url: /cv/
+    url: https://shreemayisamujjwala.com/cv/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
