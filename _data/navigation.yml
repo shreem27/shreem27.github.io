@@ -8,12 +8,12 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Bio"
+  - title: "About"
     url: https://shreemayisamujjwala.com
   - title: "Research"
     url: https://shreemayisamujjwala.com/research/
-  - title: "CV"
-    url: https://shreemayisamujjwala.com/cv/
+  # - title: "CV"
+  # url: https://shreemayisamujjwala.com/cv/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
