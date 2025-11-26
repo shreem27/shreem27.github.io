@@ -11,7 +11,7 @@ main:
   - title: "Bio"
     url: /
   - title: "Research"
-    url: /research/
+    url: https://shreemayisamujjwala.com/research/
 
   - title: "Teaching"
     url: /teaching/    
